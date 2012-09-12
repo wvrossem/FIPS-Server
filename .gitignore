@@ -1,3 +1,7 @@
+# Folders #
+backup/
+
+# Java #
 *.class
 
 # Package Files #
